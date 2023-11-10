@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/marinatoshioka/marinatoshioka/banner.gif" alt="animated" />
+  <img src="https://github.com/marinatoshioka/marinatoshioka/blob/main/banner.gif"/>
 </p>
 
 
