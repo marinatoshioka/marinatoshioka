@@ -27,8 +27,8 @@ Experiência em análise, automação e construção de soluções usando SQL, P
 
 #### 📊 Projetos
 
-[![PBI - Dashboard Financeiro](https://img.shields.io/badge/-Dashboard%20Financeiro%20DRE-%23FACC15?style=flat-square&logo=Power-BI&logoColor=black)](https://github.com/marinatoshioka/-dashboard-financeiro-DRE)
-[![SQL+PBI - Projeto de Criação de DW](https://img.shields.io/badge/-Data%20Warehouse%20de%20Vendas-%231877F2?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/marinatoshioka/dw_vendas_sql_server)
-[![Excel+PQ - Cotação de Moedas BACEN](https://img.shields.io/badge/-Cotação%20de%20Moedas%20BACEN-%23007ACC?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/marinatoshioka/cotacao-moedas-bacen-sap)
+[![Dashboard Financeiro](https://img.shields.io/badge/-Dashboard%20Financeiro%20DRE-%23FACC15?style=flat-square&logo=Power-BI&logoColor=black)](https://github.com/marinatoshioka/-dashboard-financeiro-DRE)
+[![Projeto de Criação de DW](https://img.shields.io/badge/-Data%20Warehouse%20de%20Vendas-%231877F2?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/marinatoshioka/dw_vendas_sql_server)
+[![Cotação de Moedas BACEN](https://img.shields.io/badge/-Cotação%20de%20Moedas%20BACEN-%23007ACC?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/marinatoshioka/cotacao-moedas-bacen-sap)
 
 
